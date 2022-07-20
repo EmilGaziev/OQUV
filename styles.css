@@ -149,6 +149,24 @@ div.login {
     width: 50%;
 }
 
+div.login form .submit-login-button {
+    margin-top: 1.3rem;
+    background-color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+div.login .email-input-text{
+    margin-bottom: 0.5em;
+}
+
+div.login .password-input-text {
+    margin-bottom: 0.5em;
+}
+
 @media screen and (max-width:1100px) {
     
 }
