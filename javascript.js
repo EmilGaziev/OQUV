@@ -6,3 +6,5 @@ function navShow() {
     navMenu.style.display = "flex";
   }
 }
+
+console.log(module);
